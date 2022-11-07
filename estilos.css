@@ -1,0 +1,56 @@
+
+
+.css-img{
+    width: 10%;
+    height: 10%;
+}
+
+.border-table{
+  
+    border: 1px solid black;
+    padding: 7px;
+    
+    
+}
+
+.tabela-table{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    font-size: 180%;
+    margin-top: -1%;
+    
+
+}
+
+.align-txt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1%;
+  
+   
+}
+.margin-top-box2{
+    
+    display: flex;
+    margin-top: -2%;
+    font-style: italic;
+}
+
+
+
+.color-h1{
+  color:#0721a5;
+}
+
+.config-h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    font-size: 160%;
+    color: red;
+    font-weight: 560;
+   
+}
